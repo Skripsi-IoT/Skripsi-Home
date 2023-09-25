@@ -148,15 +148,15 @@ body{
 	align-items: center;
 	flex-direction: column;
 	font-weight: bold;
-	border: 1px solid #00d5ff;
+	border: 1px solid rgb(255, 0, 235);
 	transition: 0.4s;
 }
 
 .menu > div:hover a{
-	background: #00d5ff;
+	background: rgb(255, 0, 235);
 	transform: scale(1.1);
 	transition: 0.4s;
-	box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 35%);
+	box-shadow: 0 8px 32px 0 rgba(255, 0, 235, 0.35);
 	border: none;
 }
 
